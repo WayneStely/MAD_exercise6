@@ -1,0 +1,7 @@
+{
+    "name": "MoneyTrackerMAD2024",
+    "displayName": "MoneyTrackerMAD2024"
+    "plugins": [
+        "expo-font"
+    ]
+}
